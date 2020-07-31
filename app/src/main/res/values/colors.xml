@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#808080</color>
+    <color name="colorPrimaryDark">#D4AF37</color>
+    <color name="colorAccent"> 	#000000</color>
+    <color name="insert_background">#737373</color>
+    <color name="text_insert_login">#ffffff</color>
+    <color name="second_page_background">#FFFFFF</color>
+    <color name="settings_background">#2C2C2C</color>
+</resources>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+<group android:checkableBehavior="single">
+    <item android:title="@string/title_home"
+        android:icon="@drawable/ic_home"
+        android:id="@+id/menu_home_1"/>
+    <item android:title="@string/addblog"
+        android:icon="@drawable/ic_add_blog"
+        android:id="@+id/menu_add_blog"/>
+    <item android:title="@string/settings"
+        android:icon="@drawable/ic_settings"
+        android:id="@+id/menu_settings"/>
+</group>
+    <item android:title="@string/logout"
+        app:showAsAction="always"
+        android:icon="@drawable/ic_logout"
+        android:id="@+id/menu_logout"/>
+
+</menu>
